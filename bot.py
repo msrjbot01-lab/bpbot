@@ -48,7 +48,7 @@ def handle_start(message):
         f"`/dp [nama_agen] [username_target] [jumlah]`\n\n"
         f"📌 **Format Perintah Withdraw (/wd):**\n"
         f"`/wd [nama_agen] [username_target] [jumlah]`\n\n"
-        f"🚀 Bot ini berjalan secara cloud (Render/GitHub)."
+        f"🚀 Selamat Bekerja!!."
     )
     bot.reply_to(message, welcome_text, parse_mode="Markdown")
 
